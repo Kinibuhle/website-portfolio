@@ -5,7 +5,7 @@ a virtual cv
 A modern, responsive portfolio website showcasing my projects, experience, and skills as an aspiring IT professional.
 
 ## 🚀 Live Demo
-[View Portfolio](https://your-username.github.io/portfolio-website)
+[View Portfolio](https://v0-virtual-cv-builder.vercel.app/)
 
 ## 🛠️ Built With
 - Next.js
