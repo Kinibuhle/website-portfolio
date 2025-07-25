@@ -26,5 +26,5 @@ Final year student at North West University specializing in Quality Assurance Te
 
 ## 📞 Contact
 - Email: cindimosa19@gmail.com
-- LinkedIn: [linkedin.com/in/mosacindi](https://linkedin.com/in/mosacindi)
+- LinkedIn: [linkedin.com/in/mosacindi](https://www.linkedin.com/in/mosa-cindi-905bb715a/)
 - GitHub: [github.com/kinibuhle](https://github.com/kinibuhle)
